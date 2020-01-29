@@ -1,0 +1,17 @@
+{
+  "name": "dh-node-express-cap2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "npx nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "3.0.7",
+    "ejs": "3.0.1",
+    "express": "4.17.1",
+    "express-session": "1.17.0"
+  }
+}
